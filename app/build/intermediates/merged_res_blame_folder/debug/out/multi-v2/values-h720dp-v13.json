@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "br.com.alexandre.businesscard.app-mergeDebugResources-19:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/alexnadre/.gradle/caches/transforms-3/245c8988b918414581ba707284c74083/transformed/appcompat-1.2.0/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}

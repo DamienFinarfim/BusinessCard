@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "br.com.alexandre.businesscard.app-mergeDebugResources-20:/layout/activity_add_business_card.xml",
+        "source": "br.com.alexandre.businesscard.app-main-23:/layout/activity_add_business_card.xml"
+    },
+    {
+        "merged": "br.com.alexandre.businesscard.app-mergeDebugResources-20:/layout/activity_main.xml",
+        "source": "br.com.alexandre.businesscard.app-main-23:/layout/activity_main.xml"
+    },
+    {
+        "merged": "br.com.alexandre.businesscard.app-mergeDebugResources-20:/layout/item_business_card.xml",
+        "source": "br.com.alexandre.businesscard.app-main-23:/layout/item_business_card.xml"
+    }
+]
